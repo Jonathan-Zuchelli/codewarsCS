@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Kata_6kyu_Array.diff
 {
-    class Program
+    public class Kata
     {
-        static void Main(string[] args)
+        public static int[] ArrayDiff(int[] a, int[] b)
         {
+            return a.Where(n => !b.Contains(n)).ToArray();
         }
     }
 }
