@@ -1,0 +1,13 @@
+C:\src\CodeWars\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.exe
+C:\src\CodeWars\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.deps.json
+C:\src\CodeWars\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.runtimeconfig.json
+C:\src\CodeWars\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.runtimeconfig.dev.json
+C:\src\CodeWars\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.dll
+C:\src\CodeWars\MaximumSubarraySum\bin\Debug\netcoreapp3.1\MaximumSubarraySum.pdb
+C:\src\CodeWars\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.csprojAssemblyReference.cache
+C:\src\CodeWars\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.AssemblyInfoInputs.cache
+C:\src\CodeWars\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.AssemblyInfo.cs
+C:\src\CodeWars\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.csproj.CoreCompileInputs.cache
+C:\src\CodeWars\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.dll
+C:\src\CodeWars\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.pdb
+C:\src\CodeWars\MaximumSubarraySum\obj\Debug\netcoreapp3.1\MaximumSubarraySum.genruntimeconfig.cache
