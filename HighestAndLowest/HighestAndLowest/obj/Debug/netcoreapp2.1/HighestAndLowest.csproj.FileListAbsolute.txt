@@ -1,0 +1,11 @@
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\bin\Debug\netcoreapp2.1\HighestAndLowest.deps.json
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\bin\Debug\netcoreapp2.1\HighestAndLowest.runtimeconfig.json
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\bin\Debug\netcoreapp2.1\HighestAndLowest.runtimeconfig.dev.json
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\bin\Debug\netcoreapp2.1\HighestAndLowest.dll
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\bin\Debug\netcoreapp2.1\HighestAndLowest.pdb
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\obj\Debug\netcoreapp2.1\HighestAndLowest.csprojAssemblyReference.cache
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\obj\Debug\netcoreapp2.1\HighestAndLowest.csproj.CoreCompileInputs.cache
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\obj\Debug\netcoreapp2.1\HighestAndLowest.AssemblyInfoInputs.cache
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\obj\Debug\netcoreapp2.1\HighestAndLowest.AssemblyInfo.cs
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\obj\Debug\netcoreapp2.1\HighestAndLowest.dll
+C:\src\codewarsCS\HighestAndLowest\HighestAndLowest\obj\Debug\netcoreapp2.1\HighestAndLowest.pdb
