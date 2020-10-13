@@ -1,0 +1,11 @@
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\bin\Debug\netcoreapp2.1\Credit Card Mask.deps.json
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\bin\Debug\netcoreapp2.1\Credit Card Mask.runtimeconfig.json
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\bin\Debug\netcoreapp2.1\Credit Card Mask.runtimeconfig.dev.json
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\bin\Debug\netcoreapp2.1\Credit Card Mask.dll
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\bin\Debug\netcoreapp2.1\Credit Card Mask.pdb
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\obj\Debug\netcoreapp2.1\Credit Card Mask.csprojAssemblyReference.cache
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\obj\Debug\netcoreapp2.1\Credit Card Mask.csproj.CoreCompileInputs.cache
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\obj\Debug\netcoreapp2.1\Credit Card Mask.AssemblyInfoInputs.cache
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\obj\Debug\netcoreapp2.1\Credit Card Mask.AssemblyInfo.cs
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\obj\Debug\netcoreapp2.1\Credit Card Mask.dll
+C:\src\codewarsCS\Credit Card Mask\Credit Card Mask\obj\Debug\netcoreapp2.1\Credit Card Mask.pdb
